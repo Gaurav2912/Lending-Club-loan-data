@@ -1,5 +1,6 @@
 # Project Lending-Club-loan-data
 
+![best-time-to-take-fixed-rate-loan](https://user-images.githubusercontent.com/73479133/202755076-5e8b50cd-4d43-4e60-8d1d-de8d26e3edb5.jpg)
 
 ## The Data
 
